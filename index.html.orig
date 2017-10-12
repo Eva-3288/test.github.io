@@ -85,7 +85,9 @@
 <meta property="og:site_name" content="Hexo">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hexo">
-meld<<<<<<< .mine
+<<<<<<< HEAD
+
+
 
 <script type="text/javascript" id="hexo.configurations">
   var NexT = window.NexT || {};
@@ -120,8 +122,8 @@ meld<<<<<<< .mine
 
 
   <title>Hexo</title>
-=======>>>>>>> .theirs  
-<<<<<<< .mine
+  
+
 
 
 
@@ -133,12 +135,18 @@ meld<<<<<<< .mine
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="">
 
-=======    <link rel="alternate" href="./atom.xml" title="Hexo" type="application/atom+xml">
->>>>>>> .theirs  
   
-<<<<<<< .mine    
-=======    <link rel="icon" href="./favicon.png">
->>>>>>> .theirs  
+  
+    
+=======
+   <link rel="stylesheet" href="./css/style.css">
+  
+    <link rel="alternate" href="./atom.xml" title="Hexo" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="./favicon.png">
+>>>>>>> 022b5589a3c4cd00854d905b2912b4eec8afbd99
+  
 
   <div class="container sidebar-position-left 
   page-home">
@@ -174,7 +182,8 @@ meld<<<<<<< .mine
   
 
   
-<<<<<<< .mine    <ul id="menu" class="menu">
+<<<<<<< HEAD
+    <ul id="menu" class="menu">
       
         
         <li class="menu-item menu-item-home">
@@ -199,8 +208,10 @@ meld<<<<<<< .mine
 
       
     </ul>
-======= 
->>>>>>> .theirs  
+=======
+ 
+>>>>>>> 022b5589a3c4cd00854d905b2912b4eec8afbd99
+  
 
   
 </nav>
@@ -643,15 +654,13 @@ meld<<<<<<< .mine
   
   <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
 
-<<<<<<< .mine  
+<<<<<<< HEAD
+  
   <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
-=======  <link rel="stylesheet" href="./fancybox/jquery.fancybox.css">
-  <script src="./fancybox/jquery.fancybox.pack.js"></script>
->>>>>>> .theirs
 
-<<<<<<< .mine  
-=======<script src="./js/script.js"></script>
->>>>>>> .theirs
+
+  
+
 
   <script type="text/javascript" src="/js/src/utils.js?v=5.1.3"></script>
 
@@ -722,6 +731,13 @@ meld<<<<<<< .mine
   
 
   
+=======
+  <link rel="stylesheet" href="./fancybox/jquery.fancybox.css">
+  <script src="./fancybox/jquery.fancybox.pack.js"></script>
+
+
+<script src="./js/script.js"></script>
+>>>>>>> 022b5589a3c4cd00854d905b2912b4eec8afbd99
 
 </body>
 </html>
